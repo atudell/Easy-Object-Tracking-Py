@@ -1,8 +1,6 @@
 # Easy-Object-Tracking-Py
 
-Easy Object Tracking is a python script to help make mean shift and cam shift object tracking easier to implement. It also serves as a demonstration of skill and practice with Python and OpenCV.
-
-Easy Object Tracking is written in an object oriented manner. 
+Easy Object Tracking is a python script to help make mean shift and cam shift object tracking easier to implement. It also serves as a demonstration of skill and to accopmany my article: https://towardsdatascience.com/mean-shift-and-cam-shift-object-tracking-f1c2c515b6bc
 
 Initialization: x and y are the coordinates of the initial Region of Interest (ROI) and the width and height are the dimensions of the tracking window.
 
